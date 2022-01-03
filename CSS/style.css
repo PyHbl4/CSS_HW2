@@ -1,0 +1,143 @@
+body {
+    font-family: Arial, serif;
+    margin: 0px auto;
+    font-size: 16px;
+}
+a {
+    text-decoration: none;
+}
+header {
+    font-size: 16px;
+    font-style: normal;
+    text-align: left;
+    padding-top: 33px;
+    padding-bottom: 33px;
+    color: rgb(237, 224, 248);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+.menu {
+    max-width: 1200px;
+    margin: 0px auto;
+    text-align: center;
+    position: relative;
+}
+.men {
+    color: #ede0f8;
+    margin-right: 50px;
+    font-size: 16px;
+}
+.block_up {
+    background: url(../IMG/BG1.png);
+    background-size: cover;
+}
+.cont_up {
+    max-width: 1200px;
+    margin: 0px auto;
+    color: white;
+}
+.block_down {
+    background: url(../IMG/BG2.png);
+    padding-top: 140px;
+    text-align: center;
+}
+.cont_down {
+    border: 1px white solid;
+    border-radius: 20px;
+    background: white;
+    width: 996px;
+    margin: 0px auto;
+    padding-bottom: 44px;
+    padding-top: 60px;
+}
+.cont_mid {
+    max-width: 1200px;
+    margin: 0px auto;
+    padding-top: 140px;
+    padding-bottom: 130px;
+}
+.star {
+    padding-right: 16px;
+}
+.li {
+    padding-bottom: 15px;
+    color: #311b5e;
+}
+footer {
+    font-size: 16px;
+    font-style: normal;
+    text-align: center;
+    padding-top: 33px;
+    padding-bottom: 33px;
+    margin-top: 140px;
+    color: rgb(237, 224, 248);
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+H1 {
+        font-size: 45px;
+        color: #ffffff;
+        font-weight: bold;
+        line-height: 1.222;
+        text-align: left;
+        margin: 0px 0px;
+        max-width: 470px;
+        padding-top: 150px;
+        padding-bottom: 80px;
+
+}
+h2 {
+        font-size: 35px;
+        color: rgb(139, 103, 214);
+        font-weight: bold; 
+        margin: 0 auto;
+        padding-bottom: 10px; 
+        
+}
+.UL {
+    padding-top: 58px;
+}
+img {
+    vertical-align: bottom;
+}
+.btn1 {
+    border: 2px solid;
+    display: inline-block;
+    padding: 22px 37px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 205px;
+    margin-top: 101px;
+}
+.btn2 {
+    border: 2px solid;
+    display: inline-block;
+    padding: 22px 37px;
+    text-decoration: none;
+    font-size: 16px;
+    color: rgb(177, 128, 228);
+    font-weight: bold;
+    margin-top: 40px;
+}
+.it1 {
+    color: #f5da0b;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+    font-size: 16px;   
+}
+.it2 {
+    color: #f5da0b;
+    font-weight: bold;
+    font-size: 16px;      
+}
+p {
+    margin: 0px auto;
+}
+.pbtm {
+    padding-top: 30px;
+    max-width: 588px;
+    color: #311b5e;
+}
+.bold {
+    font-weight: bold;
+}
